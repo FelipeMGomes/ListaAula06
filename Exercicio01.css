@@ -1,0 +1,30 @@
+.Tabelas {
+    border: solid 2px;
+}
+
+.Cabecalho {
+    border: solid 3px;
+    font: times;
+    size: 20;
+}
+
+.Celula {
+    border: solid 3px;
+}
+
+body{
+    font-style: italic;
+    font-size: 15px;
+    font-weight: bold;
+    margin: 10px;
+    padding: 10px;
+}
+
+.linha2{
+    background-color: blue;
+}
+
+#linha3{
+    background-color: aqua;
+}
+
